@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nikita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikita-sharma-11836a207/)](https://www.linkedin.com/in/nikita-sharma-11836a207/)
 
 [![Website Badge](https://img.shields.io/badge/WebSite-Nikita-green)](https://nikita-sharma19.github.io/nikita-sharma19-portfolio/)
 
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Nikita-yellow)](https://stackoverflow.com/users/21240382/nikita-sharma)
 
-To start with, I am a graduate with BSc(CS) and during my college I found my interest in development. I got familiar with the programming languages and I really found them interesting. Creating an application from scratch and find it working properly in the end really fascinates me. And therefore, I keep working on my skills in order to enhance them. Moreover, my skills include: HTML and CSS, Javascript, React JS, SQL , MongoDB, Bootstrap, Python, Java(OOPS).
-I am quite a proficient Frontend Developer and now on my way to become a Fullstack Developer.
+To start with, I am quite a proficient Frontend Developer and now on my way to become a Fullstack Developer. I got familiar with the programming languages and I really found them interesting. Creating an application from scratch and find it working properly in the end really fascinates me. And therefore, I keep working on my skills in order to enhance them. Moreover, my skills include: HTML and CSS, Javascript, React JS, SQL , MongoDB, Bootstrap, Python, Java(OOPS).
+I am looking forward to work as a Fullstack Developer with an opportunity to enhance my skills with my experience.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/nikita-sharma19/count.svg)
@@ -143,7 +143,7 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a>
 
-![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=nikita-sharma19&theme=react-dark&area=true)
 
 
 
