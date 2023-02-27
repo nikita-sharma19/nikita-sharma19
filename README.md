@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nikita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/nikita-sharma-11836a207/)](linkedin.com/in/nikita-sharma-11836a207/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
 
 [![Website Badge](https://img.shields.io/badge/WebSite-Nikita-green)](https://nikita-sharma19.github.io/nikita-sharma19-portfolio/)
 
